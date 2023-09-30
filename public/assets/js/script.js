@@ -1,5 +1,3 @@
-new WOW().init();
-
 
 jQuery('.drawer__icon').on('click',function(e){
 e.preventDefault();
