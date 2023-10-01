@@ -192,7 +192,7 @@ header
 }
 
 .header__nav--itemLink::after {
-	background: url(/img/pepicons_triangle-down-filled.png) no-repeat center/contain;
+	background: url(./img/pepicons_triangle-down-filled.png) no-repeat center/contain;
 	content: "";
 	height: 16px;
 	position: absolute;
@@ -388,7 +388,7 @@ drawer
 }
 
 .drawer__content--link::after {
-	background: url(/img/arrow-right@2x.png) no-repeat center center/contain;
+	background: url(./img/arrow-right@2x.png) no-repeat center center/contain;
 	content: "";
 	height: 16px;
 	position: absolute;
@@ -488,7 +488,7 @@ header__sp
 }
 
 .header__nav--itemLink-sp::after {
-	background: url(/img/pepicons_triangle-down-filled.png) no-repeat center/contain;
+	background: url(./img/pepicons_triangle-down-filled.png) no-repeat center/contain;
 	content: "";
 	height: 16px;
 	position: absolute;
@@ -533,7 +533,7 @@ mainVisual
 }
 
 .mainVisual__background {
-	background: url(/img/img_main_visual.png) no-repeat center center/cover;
+	background: url(./img/img_main_visual.png) no-repeat center center/cover;
 	height: 480px;
 }
 
@@ -768,7 +768,7 @@ register
 }
 
 .register__btn--link::after {
-	background: url(/img/akar-icons_arrow-right.png) no-repeat center center/contain;
+	background: url(./img/akar-icons_arrow-right.png) no-repeat center center/contain;
 	content: "";
 	height: 24px;
 	position: absolute;
@@ -843,7 +843,7 @@ voice
 }
 
 .voice__background {
-	background: linear-gradient(180deg, transparent 0 70%, #FFF 80%), url(/img/img_background_copy.png) no-repeat top center/cover;
+	background: linear-gradient(180deg, transparent 0 70%, #FFF 80%), url(./img/img_background_copy.png) no-repeat top center/cover;
 	height: 250px;
 }
 
@@ -860,7 +860,7 @@ voice
 }
 
 .voice__titleWrap::before {
-	background: url(/img/leaf_left.png) no-repeat center center/contain;
+	background: url(./img/leaf_left.png) no-repeat center center/contain;
 	content: "";
 	height: 203px;
 	left: -170px;
@@ -871,7 +871,7 @@ voice
 }
 
 .voice__titleWrap::after {
-	background: url(/img/leaf_right.png) no-repeat center center/contain;
+	background: url(./img/leaf_right.png) no-repeat center center/contain;
 	content: "";
 	height: 203px;
 	position: absolute;
@@ -988,7 +988,7 @@ solution
 ***************************/
 
 .solution {
-	background: url(/img/img_background_solution.png) no-repeat top center/cover;
+	background: url(./img/img_background_solution.png) no-repeat top center/cover;
 }
 
 .solution__inner {
@@ -1015,7 +1015,7 @@ solution
 }
 
 .solution__row::before {
-	background: url(/img/bi_check-circle.png) no-repeat center center/contain;
+	background: url(./img/bi_check-circle.png) no-repeat center center/contain;
 	content: "";
 	height: 32px;
 	left: 50px;
@@ -1045,7 +1045,7 @@ solution
 }
 
 .solution__rowWrap::before {
-	background: url(/img/bi_check-circle.png) no-repeat center center/contain;
+	background: url(./img/bi_check-circle.png) no-repeat center center/contain;
 	content: "";
 	height: 32px;
 	left: 50px;
@@ -1407,7 +1407,7 @@ features
 ***************************/
 
 .features {
-	background: url(/img/img_background-feature.png) no-repeat top center/cover;
+	background: url(./img/img_background-feature.png) no-repeat top center/cover;
 }
 
 .feature__inner {
@@ -1664,7 +1664,7 @@ faq
 }
 
 .faq__btn--link::after {
-	background: url(/img/bx_bxs-right-arrow.png) no-repeat center center/contain;
+	background: url(./img/bx_bxs-right-arrow.png) no-repeat center center/contain;
 	content: "";
 	height: 18px;
 	position: absolute;
@@ -2090,7 +2090,7 @@ footer
 }
 
 .mainVisual__background {
-	background: url(/img/img_main_visual-sp.png) no-repeat center center/cover;
+	background: url(./img/img_main_visual-sp.png) no-repeat center center/cover;
 }
 
 .mainVisual__inner {
